@@ -1,2 +1,2 @@
 # TestTaskChatClient
- testTask_client side
+ Клиентская часть.
